@@ -1,7 +1,7 @@
 {
     "name": "datatables.net-rowgroup-bs",
     "version": "1.0.0",
-    "description": "RowGroup for DataTables with styling for [Bootstrap](http://getbootstrap.com/)",
+    "description": "RowGroup for DataTables with styling for [Bootstrap 3](http://getbootstrap.com/)",
     "files": [
         "css/rowGroup.bootstrap.css"
     ],
