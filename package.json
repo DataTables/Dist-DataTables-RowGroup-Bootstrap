@@ -3,6 +3,7 @@
     "description": "RowGroup for DataTables with styling for [Bootstrap](https://getbootstrap.com/docs/3.3/)",
     "main": "js/rowGroup.bootstrap.js",
     "style": "css/rowGroup.bootstrap.css",
+    "types": "./types/rowGroup.bootstrap.d.ts",
     "version": "1.1.2",
     "files": [
         "css/**/*.css",
