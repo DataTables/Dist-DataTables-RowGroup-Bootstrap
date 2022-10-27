@@ -4,7 +4,7 @@
     "main": "js/rowGroup.bootstrap.js",
     "module": "js/rowGroup.bootstrap.mjs",
     "style": "css/rowGroup.bootstrap.css",
-    "types": "./types/rowGroup.bootstrap.d.ts",
+    "types": "./types/types.d.ts",
     "version": "1.2.0",
     "files": [
         "css/**/*.css",
