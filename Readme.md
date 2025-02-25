@@ -27,7 +27,7 @@ import DataTable from 'datatables.net-bs';
 import 'datatables.net-rowgroup-bs'
 
 new DataTable('#myTable', {
-    // initalisation options
+    // initialisation options
 });
 ```
 
