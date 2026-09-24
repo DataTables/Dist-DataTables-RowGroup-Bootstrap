@@ -38,9 +38,10 @@
     "exports": {
         ".": {
             "types": "./types/rowGroup.bootstrap.d.ts",
+            "style": "./css/rowGroup.bootstrap.css",
             "import": "./js/rowGroup.bootstrap.mjs",
-            "default": "./js/rowGroup.bootstrap.mjs",
-            "require": "./js/rowGroup.bootstrap.js"
+            "require": "./js/rowGroup.bootstrap.js",
+            "default": "./js/rowGroup.bootstrap.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
